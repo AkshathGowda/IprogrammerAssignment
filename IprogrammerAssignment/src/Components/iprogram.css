@@ -1,0 +1,21 @@
+.Iprogram{
+  
+}
+.photo_list>div{
+    border: 2px solid #000000;
+}
+.PhotoId{
+    margin-bottom: 0px;
+}
+.photo_list .imageBox{
+    height: 80px;
+    display: block;
+    margin: 0 auto;
+}
+.photo_list .title{
+    color: #db1515;
+    height: 60px;
+}
+.photo_list .compareBtn{
+    margin: 0 40%;
+}
